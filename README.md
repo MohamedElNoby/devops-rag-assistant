@@ -197,6 +197,3 @@ curl -X POST "http://localhost:8000/query" \
 
 * **Retrieval of generalized terms:** Broad queries initially retrieved introductory paragraphs. **Mitigation:** Applied context filtering and top-4 retrieval with overlap.
 * **Out-of-Scope Queries:** Instructed the prompt explicitly: *"State clearly that the information is not found in the context rather than generating speculative answers."*
-
-```
-
