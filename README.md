@@ -113,7 +113,7 @@ ollama run llama3.2
 
 ```bash
 # Clone the repository
-git clone [https://github.com/MohamedElNoby/rag-assistant-app.git](https://github.com/MohamedElNoby/rag-assistant-app.git)
+git clone https://github.com/MohamedElNoby/rag-assistant-app.git
 cd rag-assistant-app
 
 # Setup virtual environment (Miniconda or venv)
