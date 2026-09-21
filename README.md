@@ -1,4 +1,3 @@
-```markdown
 # 🛠️ DevOps & Cloud Infrastructure RAG Assistant
 
 An end-to-end, production-grade Retrieval-Augmented Generation (RAG) assistant designed to answer complex technical queries regarding Docker containerization, Kubernetes orchestration, and Linux infrastructure configurations with deterministic grounding and source citations.
